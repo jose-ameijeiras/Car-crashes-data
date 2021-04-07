@@ -8,7 +8,7 @@ Data is available in CSV and RData format.
 
 ## Format
 
-The data frame *car_crashes* contains the time of the day at which the car accident was produced. This is given in the format *hour* and *minute*; and also in the angle in radians (*angle_day*) measured in the interval [0,2\pi).
+The data frame *car_crashes* contains the time of the day at which the car accident was produced. This is given in the format *hour* and *minute*. It is also provided in angles  (*angle_day*), measured in radians, in the clockwise sense, in the interval [0,2\pi), where the angle 0 coincides with the time 00:00.
 
 The data frame *car_crashes_full_info* contains all the information available at the FARS website (https://www-fars.nhtsa.dot.gov/). This includes, among others the time of the year at which the accident was produced. This is given in the format of *MINUTE*, *HOUR*, *DAY*, and *MONTH*. It also provides the location, in *LATITUDE* and *LONGITUDE*, of the accident.  
 
