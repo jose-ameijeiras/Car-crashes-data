@@ -14,4 +14,4 @@ The data frame *car_crashes_full_info* contains all the information available at
 
 ## Reference:
 
-Jose Ameijeiras-Alonso and Rosa M. Crujeiras (2021). Flexible circular modeling: A case study of car accidents. In *Directional Statistics for Innovative Applications*, pp. 93–116. Singapore: Springer.
+Jose Ameijeiras-Alonso and Rosa M. Crujeiras (2022). Flexible circular modeling: A case study of car accidents. In *Directional Statistics for Innovative Applications*, pp. 93–116. Singapore: Springer.
